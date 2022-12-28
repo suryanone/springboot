@@ -9,7 +9,7 @@ consume_api01 = consume API using HttpURLConnection
 SpringbootConsumeAPI = consume API using restTemplate
   --library used = Spring Web, Spring Boot DevTools, taglibs (standard), org.apache.tomcat.embed (tomcat-embed-jasper), javax.servlet (jstl), org.apache.httpcomponents (httpclient)
 
-tomcat-embed-jasper --> view JSP
+tomcat-embed-jasper --> view JSP.
 JSTL --> allows developers to write custom iteration tags by implementing the LoopTag interface.
 servlet-api --> build web applications
 javassist --> editing bytecodes in Java
